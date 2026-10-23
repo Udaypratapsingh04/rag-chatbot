@@ -1,0 +1,11 @@
+venv/
+.venv/
+node_modules/
+dist/
+__pycache__/
+.env
+backend/settings.json
+backend/uploads/*
+backend/vector_store/*
+!backend/uploads/.gitkeep
+!backend/vector_store/.gitkeep
